@@ -1,0 +1,305 @@
+pre reduction for row 0
+post reduction:
+
+pre reduction for row 1
+post reduction:
+
+pre reduction for row 2
+post reduction:
+
+pre reduction for row 3
+post reduction:
+
+pre reduction for row 4
+post reduction:
+
+pre reduction for row 5
+post reduction:
+
+pre reduction for row 6
+post reduction:
+
+pre reduction for row 7
+post reduction:
+
+pre reduction for row 8
+post reduction:
+
+pre reduction for row 9
+post reduction:
+
+pre reduction for row 10
+post reduction:
+
+pre reduction for row 11
+post reduction:
+
+pre reduction for row 12
+post reduction:
+
+pre reduction for row 13
+post reduction:
+
+pre reduction for row 14
+post reduction:
+
+pre reduction for row 15
+post reduction:
+
+pre reduction for row 16
+post reduction:
+
+pre reduction for row 17
+post reduction:
+
+pre reduction for row 18
+post reduction:
+
+pre reduction for row 19
+post reduction:
+
+pre reduction for row 20
+post reduction:
+
+pre reduction for row 21
+post reduction:
+
+pre reduction for row 22
+post reduction:
+
+pre reduction for row 23
+post reduction:
+
+pre reduction for row 24
+post reduction:
+
+pre reduction for row 25
+post reduction:
+
+pre reduction for row 26
+post reduction:
+
+pre reduction for row 27
+post reduction:
+
+pre reduction for row 28
+post reduction:
+
+pre reduction for row 29
+post reduction:
+
+pre reduction for row 30
+post reduction:
+
+pre reduction for row 31
+post reduction:
+
+pre reduction for row 32
+post reduction:
+
+pre reduction for row 33
+post reduction:
+
+pre reduction for row 34
+post reduction:
+
+pre reduction for row 35
+post reduction:
+
+pre reduction for row 36
+post reduction:
+
+pre reduction for row 37
+post reduction:
+
+pre reduction for row 38
+post reduction:
+
+pre reduction for row 39
+post reduction:
+
+pre reduction for row 40
+post reduction:
+
+pre reduction for row 41
+post reduction:
+
+pre reduction for row 42
+post reduction:
+
+pre reduction for row 43
+post reduction:
+
+pre reduction for row 44
+post reduction:
+
+pre reduction for row 45
+post reduction:
+
+pre reduction for row 46
+post reduction:
+
+pre reduction for row 47
+post reduction:
+
+pre reduction for row 48
+post reduction:
+
+pre reduction for row 49
+post reduction:
+
+pre reduction for row 50
+post reduction:
+
+pre reduction for row 51
+post reduction:
+
+pre reduction for row 52
+post reduction:
+
+pre reduction for row 53
+post reduction:
+
+pre reduction for row 54
+post reduction:
+
+pre reduction for row 55
+post reduction:
+
+pre reduction for row 56
+post reduction:
+
+pre reduction for row 57
+post reduction:
+
+pre reduction for row 58
+post reduction:
+
+pre reduction for row 59
+post reduction:
+
+pre reduction for row 60
+post reduction:
+
+pre reduction for row 61
+post reduction:
+
+pre reduction for row 62
+post reduction:
+
+pre reduction for row 63
+post reduction:
+
+pre reduction for row 64
+post reduction:
+
+pre reduction for row 65
+post reduction:
+
+pre reduction for row 66
+post reduction:
+
+pre reduction for row 67
+post reduction:
+
+pre reduction for row 68
+post reduction:
+
+pre reduction for row 69
+post reduction:
+
+pre reduction for row 70
+post reduction:
+
+pre reduction for row 71
+post reduction:
+
+pre reduction for row 72
+post reduction:
+
+pre reduction for row 73
+post reduction:
+
+pre reduction for row 74
+post reduction:
+
+pre reduction for row 75
+post reduction:
+
+pre reduction for row 76
+post reduction:
+
+pre reduction for row 77
+post reduction:
+
+pre reduction for row 78
+post reduction:
+
+pre reduction for row 79
+post reduction:
+
+pre reduction for row 80
+post reduction:
+
+pre reduction for row 81
+post reduction:
+
+pre reduction for row 82
+post reduction:
+
+pre reduction for row 83
+post reduction:
+
+pre reduction for row 84
+post reduction:
+
+pre reduction for row 85
+post reduction:
+
+pre reduction for row 86
+post reduction:
+
+pre reduction for row 87
+post reduction:
+
+pre reduction for row 88
+post reduction:
+
+pre reduction for row 89
+post reduction:
+
+pre reduction for row 90
+post reduction:
+
+pre reduction for row 91
+post reduction:
+
+pre reduction for row 92
+post reduction:
+
+pre reduction for row 93
+post reduction:
+
+pre reduction for row 94
+post reduction:
+
+pre reduction for row 95
+post reduction:
+
+pre reduction for row 96
+post reduction:
+
+pre reduction for row 97
+post reduction:
+
+pre reduction for row 98
+post reduction:
+
+Back substitution: row, rhs sum, pivot
+Computed value of X =  [array([-1.47524752]), array([ 0.95049505]), array([-1.42574257]), array([ 0.9009901]), array([-1.37623762]), array([ 0.85148515]), array([-1.32673267]), array([ 0.8019802]), array([-1.27722772]), array([ 0.75247525]), array([-1.22772277]), array([ 0.7029703]), array([-1.17821782]), array([ 0.65346535]), array([-1.12871287]), array([ 0.6039604]), array([-1.07920792]), array([ 0.55445545]), array([-1.02970297]), array([ 0.5049505]), array([-0.98019802]), array([ 0.45544554]), array([-0.93069307]), array([ 0.40594059]), array([-0.88118812]), array([ 0.35643564]), array([-0.83168317]), array([ 0.30693069]), array([-0.78217822]), array([ 0.25742574]), array([-0.73267327]), array([ 0.20792079]), array([-0.68316832]), array([ 0.15841584]), array([-0.63366337]), array([ 0.10891089]), array([-0.58415842]), array([ 0.05940594]), array([-0.53465347]), array([ 0.00990099]), array([-0.48514851]), array([-0.03960396]), array([-0.43564356]), array([-0.08910891]), array([-0.38613861]), array([-0.13861386]), array([-0.33663366]), array([-0.18811881]), array([-0.28712871]), array([-0.23762376]), array([-0.23762376]), array([-0.28712871]), array([-0.18811881]), array([-0.33663366]), array([-0.13861386]), array([-0.38613861]), array([-0.08910891]), array([-0.43564356]), array([-0.03960396]), array([-0.48514851]), array([ 0.00990099]), array([-0.53465347]), array([ 0.05940594]), array([-0.58415842]), array([ 0.10891089]), array([-0.63366337]), array([ 0.15841584]), array([-0.68316832]), array([ 0.20792079]), array([-0.73267327]), array([ 0.25742574]), array([-0.78217822]), array([ 0.30693069]), array([-0.83168317]), array([ 0.35643564]), array([-0.88118812]), array([ 0.40594059]), array([-0.93069307]), array([ 0.45544554]), array([-0.98019802]), array([ 0.5049505]), array([-1.02970297]), array([ 0.55445545]), array([-1.07920792]), array([ 0.6039604]), array([-1.12871287]), array([ 0.65346535]), array([-1.17821782]), array([ 0.7029703]), array([-1.22772277]), array([ 0.75247525]), array([-1.27722772]), array([ 0.8019802]), array([-1.32673267]), array([ 0.85148515]), array([-1.37623762]), array([ 0.9009901]), array([-1.42574257]), array([ 0.95049505]), array([-1.47524752])]
+X 
+[array([-1.47524752]), array([ 0.95049505]), array([-1.42574257]), array([ 0.9009901]), array([-1.37623762]), array([ 0.85148515]), array([-1.32673267]), array([ 0.8019802]), array([-1.27722772]), array([ 0.75247525]), array([-1.22772277]), array([ 0.7029703]), array([-1.17821782]), array([ 0.65346535]), array([-1.12871287]), array([ 0.6039604]), array([-1.07920792]), array([ 0.55445545]), array([-1.02970297]), array([ 0.5049505]), array([-0.98019802]), array([ 0.45544554]), array([-0.93069307]), array([ 0.40594059]), array([-0.88118812]), array([ 0.35643564]), array([-0.83168317]), array([ 0.30693069]), array([-0.78217822]), array([ 0.25742574]), array([-0.73267327]), array([ 0.20792079]), array([-0.68316832]), array([ 0.15841584]), array([-0.63366337]), array([ 0.10891089]), array([-0.58415842]), array([ 0.05940594]), array([-0.53465347]), array([ 0.00990099]), array([-0.48514851]), array([-0.03960396]), array([-0.43564356]), array([-0.08910891]), array([-0.38613861]), array([-0.13861386]), array([-0.33663366]), array([-0.18811881]), array([-0.28712871]), array([-0.23762376]), array([-0.23762376]), array([-0.28712871]), array([-0.18811881]), array([-0.33663366]), array([-0.13861386]), array([-0.38613861]), array([-0.08910891]), array([-0.43564356]), array([-0.03960396]), array([-0.48514851]), array([ 0.00990099]), array([-0.53465347]), array([ 0.05940594]), array([-0.58415842]), array([ 0.10891089]), array([-0.63366337]), array([ 0.15841584]), array([-0.68316832]), array([ 0.20792079]), array([-0.73267327]), array([ 0.25742574]), array([-0.78217822]), array([ 0.30693069]), array([-0.83168317]), array([ 0.35643564]), array([-0.88118812]), array([ 0.40594059]), array([-0.93069307]), array([ 0.45544554]), array([-0.98019802]), array([ 0.5049505]), array([-1.02970297]), array([ 0.55445545]), array([-1.07920792]), array([ 0.6039604]), array([-1.12871287]), array([ 0.65346535]), array([-1.17821782]), array([ 0.7029703]), array([-1.22772277]), array([ 0.75247525]), array([-1.27722772]), array([ 0.8019802]), array([-1.32673267]), array([ 0.85148515]), array([-1.37623762]), array([ 0.9009901]), array([-1.42574257]), array([ 0.95049505]), array([-1.47524752])]
+
+
+residual 9.88048808102
+Processing time is : 0.000009

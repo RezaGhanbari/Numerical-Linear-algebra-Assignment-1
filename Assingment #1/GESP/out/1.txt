@@ -1,0 +1,15 @@
+Exchanging rows: 0 2
+pre reduction for row 0
+post reduction:
+
+pre reduction for row 1
+post reduction:
+
+Back substitution: row, rhs sum, pivot
+Computed value of X =  [-3.6666666666666656, 3.8095238095238093, 0.28571428571428575]
+X 
+[-3.6666666666666656, 3.8095238095238093, 0.28571428571428575]
+
+
+residual 0.0
+Processing time is : 0.000001

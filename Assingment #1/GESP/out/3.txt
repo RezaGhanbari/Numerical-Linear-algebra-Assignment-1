@@ -1,0 +1,8 @@
+Exchanging rows: 0 1
+pre reduction for row 0
+post reduction:
+
+pre reduction for row 1
+post reduction:
+
+Back substitution: row, rhs sum, pivot
